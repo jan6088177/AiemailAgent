@@ -9,6 +9,7 @@ This project allows you to:
 - 📊 View processed emails in a Streamlit dashboard
 
 ---
+![image](https://github.com/user-attachments/assets/fa56733e-859d-4e78-8bd1-48f31762b40f)
 
 ## 🚀 Getting Started
 
@@ -180,7 +181,7 @@ I'm happy to provide:
 - Integration with your CRM
 - Login/authentication
 - Hosting and deployment support
-
+WhatsApp +923436088177
 📧 Contact: khan6088177@gmail.com  
 🔗 Project Source: [GitHub Repo](https://github.com/jan6088177/AiemailAgent)
 
