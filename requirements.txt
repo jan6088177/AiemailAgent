@@ -1,0 +1,10 @@
+requests
+pyyaml
+python-dotenv
+imaplib2
+phonenumbers
+tldextract
+urlextract
+streamlit
+pandas
+matplotlib

@@ -1,0 +1,34 @@
+classification:
+  prompt: |
+    Classify the following email into one of these categories:
+    - Sales Inquiry
+    - Marketing / Newsletter
+    - Management Request
+    - Internal Communication
+    - Support Request
+    - HR / Recruitment
+    - Spam / Fraudulent
+    - Other
+
+    Email:
+    {body}
+
+auto_reply:
+  prompt: |
+    Generate a polite reply to this email:
+    {body}
+
+    Include these key details:
+    - Link: https://github.com/jan6088177/AiemailAgent
+    - Email: khan6088177@gmail.com
+    - WhatsApp: +92 343 6088177
+    - Sign off with "Best regards, KHAN"
+
+lead_score:
+  prompt: |
+    Rate this sales inquiry from 1 to 10 based on clarity, intent, and relevance.
+
+    Email:
+    {body}
+
+    Score:

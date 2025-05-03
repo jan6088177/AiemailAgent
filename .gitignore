@@ -1,0 +1,17 @@
+*.pyc
+__pycache__
+venv/
+.aiemail/
+.env
+.DS_Store
+*.log
+logs/
+*.csv
+*.json
+*.lock
+.vscode/
+.idea/
+*.tmp
+*.bak
+*.swp
+*.swo
